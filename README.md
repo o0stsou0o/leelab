@@ -9,8 +9,13 @@ We would like to see if V1 and V2 neurons can decode familiar images better unde
 
 We know repeated exposure to a set of stimuli will produce the familiarity effect. Yet, the functional impact or advantages of familiarity effect has not been demonstrated.  In this study, we hypothesize that familiarity training might modify the recurrent circuitry which can change the population code of the neurons to make them either encode information more efficiently or be able to discriminate the familiar stimuli better. To test this hypothesis, we evaluate the population code of neurons (in terms of their stimulus decodability or discriminability) before and subsequent to familiar training. 
 
+sample stimuli
+![](pictures/No_001.png)
 
+![](pictures/No_005.png)
 
+sample 20% noise mask
+![](pictures/n01ap2521.bmp)
 
 
 
